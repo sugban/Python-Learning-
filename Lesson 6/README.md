@@ -3,4 +3,4 @@
 * Syntax with flowchart
 * Examples 
 
-### [Youtube Video](
+### [Youtube Video](https://youtu.be/6fEKPssKV1k)
