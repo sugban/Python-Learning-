@@ -1,5 +1,5 @@
 # Python-Learning-
-Beginner to Advance
+Beginner to Advance  **[Youtube Video Playlist](https://youtube.com/playlist?list=PLTGhgT17e9K6gNqrFrJ9OlaiUfuJfmPtU)
 
 # Installation/Setup
 
@@ -8,14 +8,15 @@ If you already have Python on your computer, that's great!
 
 This repository contains all the exercises and projects with each lesson.
 
+
 | Lesson | Topic |
 |--------|---------------------------------------------------------------------------|
-|  1  | Syntax and comments |
+|  1  | Syntax |
 |  2  | Escape sequence  |
 |  3  | Operators    |
 |  4  | Variables |
 |  5  | Strings (indexing, slicing and methods)  |
-|  6  | If, elif, else statement  |
+|  6  | If, else statement  |
 |  7  | For and While loops |
 |  8  | Use of Random library  |
 |  9  | Defining and calling fuction |
@@ -29,10 +30,14 @@ This repository contains all the exercises and projects with each lesson.
 | 17  | List, Dictionary and Set comprehension |
 | 18  | Regular expression |
 | 19  | Lambda expression  |
-| 20  | Reading and writing files |
-| 21  | Creating and handling arrays using NumPy |
-| 22  | Data analysis using Pandas |
-| 23  | Data visualization using Matplotlib |
-| 24  | Data visualization using Seaborn |
-| 25  | Data visualization using Plotly |
-| 26  | Data visualization using Matplotlib |
+| 20  | File handling |
+| 21  | csv file handling |
+| 22 | html file handling |
+| 23 | excel file handling |
+| 24 | Creating and handling arrays using NumPy |
+| 25 | Data analysis using Pandas |
+| 26 | Data visualization using Matplotlib |
+| 27 | Data visualization using Seaborn |
+| 28 | Data visualization using Plotly |
+| 29 | Data Visualization Project 1 |
+| 30 | Data Visualization Project 2 |
