@@ -1,0 +1,4 @@
+﻿Hello! Welcome to the demo file.
+This file is for learning file handling in Python.
+We’ll try to open, read and then append in this file.
+So be tuned and Good Luck!
