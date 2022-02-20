@@ -1,6 +1,6 @@
 ### Plotly (Interactive Visualization in Python)
 
-* How to generate different plots in Plotly
+* How to generate different plots in Plotly express
 * How to generate subplots in Plotly
 
-### [Youtube Video]()
+### [Youtube Video](https://youtu.be/S8cXkedwNCY)
