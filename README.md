@@ -1,5 +1,7 @@
 # Python-Learning-
-Beginner to Advance  **[Youtube Video Playlist](https://youtube.com/playlist?list=PLTGhgT17e9K6gNqrFrJ9OlaiUfuJfmPtU)**
+Beginner to Advance  **[Youtube Video Playlist](https://youtube.com/playlist?list=PLTGhgT17e9K6gNqrFrJ9OlaiUfuJfmPtU)** <br><br>
+<img src='https://user-images.githubusercontent.com/63021714/163972594-04ae1373-a7a3-431b-b056-587195e8774a.png' width=10%>
+
 
 # Installation/Setup
 
